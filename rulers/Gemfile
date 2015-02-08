@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+gem.add_runtime_dependency "rack"
+
+gemspec
